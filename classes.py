@@ -69,3 +69,4 @@ dev_1 = Developer('Jeremy', 'Coulter', 50000, 'Python')
 dev_2 = Developer('Aleksy', 'Kowalcyzk', 60000, 'Java')
 
 mgr_1 = Manager('Susan', 'Hamilton', 90000, [dev_1])
+
